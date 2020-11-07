@@ -10,6 +10,7 @@ import javax.xml.bind.annotation.XmlType;
 import javax.xml.bind.annotation.XmlValue;
 
 
+
 /**
  * Java class for stock xml.
  */
